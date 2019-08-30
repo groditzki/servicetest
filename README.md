@@ -1,5 +1,6 @@
 # servicetest
 tests a locally cloned userservice implenented as rest-service provided by Andreas Mondschau (amonschau) and Andreas Ernst from Haeger Consuting Bonn.
+Repository: https://github.com/amonschau/userservice 
 These tasks should be performed:
 
 > > 1) Erzeugen eines Users -> Service liefert Erfolg
